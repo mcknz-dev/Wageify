@@ -1,0 +1,64 @@
+
+/* ------------------------------INDEX.HTML------------------------------------------*/
+
+body{                                           /* Master Background colour  */
+    background-color: #F8F8F8;
+    max-width: 420px;
+    margin: 0 auto;
+
+}
+
+.landing-header img {                           /* Logo Picture */
+    max-width: 55%;
+    height: auto;
+    margin-top: 70px;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.landing-header{                                /* Centering the logos */
+    text-align: center;
+}
+
+.landing-header h1{                             /* "WAGEIFY" Logo */
+    font-size: 65px;
+    font-family: 'Orbitron', sans-serif;
+    margin-top: 0;
+    line-height: 0.5;
+    margin-bottom: 28%;
+}
+
+.logo .ify{                                     /* Green part Logo */
+    color: #64C466;
+}
+
+.button1 {                                      /* Black Buttons */
+    background-color: black;
+    color: white;
+    border-radius: 25px;
+    padding: 25px;
+    font-size: 20px;
+    border: none;
+    display: flex;
+    margin: 20px auto;
+    justify-content: center;
+    width: 350px;                               /* Makes the bars longer */
+    font-family: arial, sans-serif;
+
+}
+
+h3{                                             /* "Need Help?" */
+    text-align: center;
+    font-family: arial, serif;
+    margin-top: 10px;
+}
+
+footer {                                        /* Footer */
+    text-align: center;
+    font-family: arial, serif;
+    padding: 1px;
+    margin-top: 32%;
+    line-height: 0.5;
+}
+
+/* ------------------------------INDEX.HTML------------------------------------------*/
