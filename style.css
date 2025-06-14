@@ -25,7 +25,8 @@ body{                                           /* Master Background colour  */
     font-family: 'Orbitron', sans-serif;
     margin-top: 0;
     line-height: 0.8;
-    margin-bottom: 28%;
+    margin-bottom: 20%;
+    font-weight: 450;
 }
 
 .logo .ify{                                     /* Green part Logo */
@@ -61,3 +62,4 @@ footer {                                        /* Footer */
     line-height: 0.5;
 }
 
+/* ------------------------------INDEX.HTML------------------------------------------*/
