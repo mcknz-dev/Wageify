@@ -43,6 +43,11 @@ body{                                           /* Master Background colour  */
     color: #64C466;
 }
 
+.logo .wage{                                     /* Green part Logo */
+    color: black;
+}
+
+
 .button1 {                                      /* Black Buttons */
     background-color: black;
     color: white;
@@ -58,7 +63,13 @@ body{                                           /* Master Background colour  */
 
 }
 
-h3{                                             /* "Need Help?" */
+h3{                                             /* H2 */
+    text-align: center;
+    font-family: arial, serif;
+    margin-top: 10px;
+}
+
+h2{                                             /* H3 */
     text-align: center;
     font-family: arial, serif;
     margin-top: 10px;
@@ -88,7 +99,7 @@ input{                                          /* Text Inputs */
     text-align: center;
 }
 
-a {
+a {                                             /* Link Colour */
     color: #64C466;
     text-decoration: none;
 }
