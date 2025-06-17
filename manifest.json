@@ -1,7 +1,7 @@
 {
   "name": "Wageify",
   "short_name": "Wageify",
-  "start_url": "/index.html",
+  "start_url": "Wageify",
   "display": "standalone",
   "background_color": "#F8F8F8",
   "theme_color": "#F8F8F8",
